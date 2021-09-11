@@ -1,6 +1,6 @@
 # TFM-Master-Matematicas
 Código del desarrollo python para el TFM de la maestría
 
-Desarrolladores:
-    Ing. Ignacio Albán Idrovo.
-    Ing. Andrés Sánchez Troncoso.
+<b>Desarrolladores:</b><br>
+    Ing. Ignacio Albán Idrovo.<br>
+    Ing. Andrés Sánchez Troncoso.<br>
